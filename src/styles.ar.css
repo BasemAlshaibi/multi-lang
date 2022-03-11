@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: rgb(44, 77, 138);
+}
+
+* {
+    direction: rtl;
+    text-align: right;
+}
